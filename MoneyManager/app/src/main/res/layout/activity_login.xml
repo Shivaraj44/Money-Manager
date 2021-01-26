@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_height="match_parent"
+    android:background="#F1E66E"
+    tools:context=".Login.LoginActivity">
+<ImageView
+    android:layout_width="40dp"
+    android:layout_height="40dp"
+    android:layout_centerHorizontal="true"
+android:layout_marginTop="250dp"
+    android:src="@drawable/logo3"
+    />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:textSize="25dp"
+        android:layout_height="wrap_content"
+        android:hint="Enter User Name"
+        android:background="@android:color/transparent"
+        android:textColorHint="@color/white"
+        android:gravity="center_horizontal"
+        android:textColor="@android:color/white"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="350dp"
+        android:id="@+id/user_name"
+        />
+    <EditText
+        android:textColorHint="@color/white"
+        android:background="@android:color/transparent"
+        android:layout_centerHorizontal="true"
+        android:textColor="@android:color/white"
+        android:layout_below="@id/user_name"
+        android:textSize="25dp"
+        android:layout_marginTop="40dp"
+        android:password="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Enter Password"
+        android:id="@+id/user_password"
+        />
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_below="@id/user_password"
+        android:layout_centerHorizontal="true"
+        android:background="#69E345"
+        android:textColor="@color/white"
+        android:layout_marginTop="50dp"
+        android:textSize="30dp"
+        android:layout_height="wrap_content"
+        android:text="login"
+        android:id="@+id/login_main"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New User?"
+        android:layout_below="@id/login_main"
+        android:textColor="@android:color/white"
+        android:textSize="20dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:id="@+id/newuser"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/regester_main"
+        android:text="Regester"
+        android:layout_below="@+id/newuser"
+        android:layout_centerHorizontal="true"
+        android:background="#114E70"
+        android:layout_marginTop="30dp"
+        android:textSize="25dp"
+        android:textColor="@color/white"
+        />
+
+</RelativeLayout>
