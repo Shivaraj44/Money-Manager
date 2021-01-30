@@ -27,6 +27,10 @@ Project is created with:
 
 
 
-<img src=screenscorts/Screenshot_2021-01-15-17-52-04-387_com.example.moneymanager.jpg height="500px"/>|<img src=screenscorts/Screenshot_2021-01-15-17-52-10-305_com.example.moneymanager.jpgheight="500px"/>|<img src=screenscorts/Screenshot_2021-01-15-17-52-19-460_com.example.moneymanager.jpg height="500px"/>|<img src=screenscorts/Screenshot_2021-01-15-17-52-24-671_com.example.moneymanager.jpg height="500px"/>|<img src=screenscorts/Screenshot_2021-01-15-17-58-43-691_com.example.moneymanager.jpg height="500px"/>
+<img src=screenscorts/Screenshot_2021-01-15-17-52-04-387_com.example.moneymanager.jpg height="500px"/>
+<img src=screenscorts/Screenshot_2021-01-15-17-52-10-305_com.example.moneymanager.jpgheight="500px"/>
+<img src=screenscorts/Screenshot_2021-01-15-17-52-19-460_com.example.moneymanager.jpg height="500px"/>
+<img src=screenscorts/Screenshot_2021-01-15-17-52-24-671_com.example.moneymanager.jpg height="500px"/>
+<img src=screenscorts/Screenshot_2021-01-15-17-58-43-691_com.example.moneymanager.jpg height="500px"/>
 <img src=screenscorts/logo3%20(1).jpg height="100" weight="100"/>
 
